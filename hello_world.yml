@@ -3,5 +3,5 @@
   tasks:
     - name: Hello Message
       debug:
-        var: pier_attachement_dir
+        var: attachement_dir
 
